@@ -1,0 +1,39 @@
+{
+  "name": "gist-packer",
+  "version": "0.0.0",
+  "description": "Map any combination of file and object data between your application and a private gist in the cloud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning: no tests yet\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "bmcclure/node-gist-data-mapper"
+  },
+  "keywords": [
+    "github",
+    "gist",
+    "cloud"
+  ],
+  "author": "Ben McClure <ben.mcclure@gmail.com> (http://benmcclure.com)",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/bmcclure/node-gist-data-mapper/issues"
+  },
+  "homepage": "https://github.com/bmcclure/node-gist-data-mapper#readme",
+  "dependencies": {
+    "app-root-path": "^2.0.1",
+    "bluebird": "^3.5.0",
+    "check-types": "^7.1.5",
+    "dot-prop": "^4.1.1",
+    "gists": "^0.1.2",
+    "is-json": "^2.0.1",
+    "jsonfile": "^3.0.0",
+    "node-dir": "^0.1.17",
+    "randomstring": "^1.1.5",
+    "sander": "^0.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.1.1"
+  }
+}
