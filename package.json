@@ -26,7 +26,7 @@
     "bluebird": "^3.5.0",
     "check-types": "^7.1.5",
     "dot-prop": "^4.1.1",
-    "gists": "^0.1.2",
+    "github-api": "^3.0.0",
     "is-json": "^2.0.1",
     "jsonfile": "^3.0.0",
     "node-dir": "^0.1.17",
