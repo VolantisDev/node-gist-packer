@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "bmcclure/node-gist-data-mapper"
+    "url": "bmcclure/node-gist-data-packer"
   },
   "keywords": [
     "github",
@@ -18,17 +18,14 @@
   "author": "Ben McClure <ben.mcclure@gmail.com> (http://benmcclure.com)",
   "license": "Unlicense",
   "bugs": {
-    "url": "https://github.com/bmcclure/node-gist-data-mapper/issues"
+    "url": "https://github.com/bmcclure/node-gist-data-packer/issues"
   },
-  "homepage": "https://github.com/bmcclure/node-gist-data-mapper#readme",
+  "homepage": "https://github.com/bmcclure/node-gist-data-packer#readme",
   "dependencies": {
     "app-root-path": "^2.0.1",
     "bluebird": "^3.5.0",
     "check-types": "^7.1.5",
-    "dot-prop": "^4.1.1",
     "github-api": "^3.0.0",
-    "is-json": "^2.0.1",
-    "jsonfile": "^3.0.0",
     "node-dir": "^0.1.17",
     "randomstring": "^1.1.5",
     "sander": "^0.6.0"
