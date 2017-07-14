@@ -1,6 +1,6 @@
 {
   "name": "gist-packer",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Map any combination of file and object data between your application and a private gist in the cloud",
   "main": "index.js",
   "scripts": {
